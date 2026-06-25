@@ -1800,5 +1800,17 @@
     "github_repo": "perfectpheonix5/tulas-race",
     "repo_url": "https://perfectpheonix5.github.io/tulas-race/",
     "has_system": false
+  },
+  {
+    "name": "e.g-Path-of-the-Grave-walker-feats-",
+    "description": "Homebrew content based in Talion and celebrimbor. ",
+    "tags": [
+      "5e2024",
+      "feats"
+    ],
+    "stars": 0,
+    "github_repo": "LontraCaolha/e.g-Path-of-the-Grave-walker-feats-",
+    "repo_url": "https://LontraCaolha.github.io/e.g-Path-of-the-Grave-walker-feats-/",
+    "has_system": false
   }
 ]
